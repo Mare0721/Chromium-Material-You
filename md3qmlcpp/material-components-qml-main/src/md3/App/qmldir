@@ -1,0 +1,23 @@
+module md3.App
+
+Main 1.0 ../../App/Main.qml
+AppRoot 1.0 ../../App/AppRoot.qml
+
+PhoenixAboutPage 1.0 ../../App/pages/PhoenixAboutPage.qml
+PhoenixHomePage 1.0 ../../App/pages/PhoenixHomePage.qml
+PhoenixLogsPage 1.0 ../../App/pages/PhoenixLogsPage.qml
+PhoenixProPage 1.0 ../../App/pages/PhoenixProPage.qml
+PhoenixSettingsPage 1.0 ../../App/pages/PhoenixSettingsPage.qml
+PhoenixWidgetsPage 1.0 ../../App/pages/PhoenixWidgetsPage.qml
+
+AnalogClockWidget 1.0 ../../App/widgets/AnalogClockWidget.qml
+BatteryWidget 1.0 ../../App/widgets/BatteryWidget.qml
+ClockWidget 1.0 ../../App/widgets/ClockWidget.qml
+DesktopWidgetWindow 1.0 ../../App/widgets/DesktopWidgetWindow.qml
+DraggableWidgetWrapper 1.0 ../../App/widgets/DraggableWidgetWrapper.qml
+ExternalWidgetViewer 1.0 ../../App/widgets/ExternalWidgetViewer.qml
+GhostClockWidget 1.0 ../../App/widgets/GhostClockWidget.qml
+GoogleSearchBar 1.0 ../../App/widgets/GoogleSearchBar.qml
+SleepyFaceClockWidget 1.0 ../../App/widgets/SleepyFaceClockWidget.qml
+
+singleton DesktopWidgetManager 1.0 ../../App/widgets/DesktopWidgetManager.qml
