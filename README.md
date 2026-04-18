@@ -293,5 +293,6 @@ double FingerprintConfig::GenerateNoise(double input, double factor) {
 | 17 | navigator.webdriver | C++ | 硬编码返回 false |
 
 Pixelscan检测
-![Uploading 屏幕截图 2026-04-19 004304.png…]()
+<img width="1919" height="1030" alt="屏幕截图 2026-04-19 004304" src="https://github.com/user-attachments/assets/bafb696c-aa46-46e6-831c-af0d6f898428" />
+
 
