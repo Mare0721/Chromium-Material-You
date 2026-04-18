@@ -291,3 +291,7 @@ double FingerprintConfig::GenerateNoise(double input, double factor) {
 | 15 | WebRTC | C++ | 阻止 IP 泄露 |
 | 16 | 插件 | C++ | 描述信息噪声 |
 | 17 | navigator.webdriver | C++ | 硬编码返回 false |
+
+Pixelscan检测
+![Uploading 屏幕截图 2026-04-19 004304.png…]()
+
